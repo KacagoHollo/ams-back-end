@@ -1,4 +1,4 @@
-# Artwork Gallery Project
+# Artwork Gallery Project - backend
 
 A team project, made by bsamu, KacagoHollo, klikknpro. 
 Creating a gallery app with fetched data from The Cleveland Museum of Art Open Access API (https://openaccess-api.clevelandart.org/).
